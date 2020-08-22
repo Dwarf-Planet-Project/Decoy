@@ -1,0 +1,2 @@
+# Decoy
+Decoy is a program that was created to mitigate damages caused by laptop and computer theft which often lead to personal information being leaked. Due to Google Chrome's password autosave feature, we have reason to believe that thieves would instinctively open a browser such as Google Chrome to access information such as PayPal credentials or banking information. To combat this, we concealed Decoy using a VBScript shortcut that opens Google Chrome normally while logging the keyboard of and tracking the location of the unauthorized user. 
