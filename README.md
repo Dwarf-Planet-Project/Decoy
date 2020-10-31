@@ -13,6 +13,8 @@ Decoy is a program that was created to mitigate damages caused by laptop and com
 9. Move the new shortcut "Google Chrome" to the desktop
 
 # Development Team:
+Jacky Liu - https://github.com/jackyliu1999/Decoy
+
 Anson Wong - https://github.com/ansonwong250
 
 Jacky Nguyen - https://github.com/jacky-h-nguyen
